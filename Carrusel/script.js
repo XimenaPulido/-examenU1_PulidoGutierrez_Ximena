@@ -1,9 +1,9 @@
 const imagenes = [
-    "img/Sett1.jpg",
-    "img/Sett2.jpg",
-    "img/Sett3.jpg",
-    "img/Sett4.jpg",
-    "img/Sett5.jpg"
+    "../img/Sett1.jpg",
+    "../img/Sett2.jpg",
+    "../img/Sett3.jpg",
+    "../img/Sett4.jpg",
+    "../img/Sett5.jpg"
 ];
 
 
